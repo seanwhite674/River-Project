@@ -5,6 +5,7 @@ I analysed the data of a river from 2000 to 2020 using Google Earth Pro
 ![Google Earth River](https://github.com/seanwhite674/River-Project/assets/110498155/564213f3-41e7-4354-8ac7-e32275583889)
 
 I imported this data into excel and transferred to Python
+![Screenshot 2024-01-04 192631](https://github.com/seanwhite674/River-Project/assets/110498155/fc973146-3868-416a-9273-29a857a802d3)
 
 The basic premise behing our model:
   1- I moved each point of the river out in the orthonormal direction of the point by an amount proportional to a constant 
