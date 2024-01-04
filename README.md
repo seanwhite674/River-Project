@@ -2,6 +2,7 @@
 Modelling a section of the Amazon River
 This is a project I completed in a course called Modelling in Applied Mathematics.
 I analysed the data of a river from 2000 to 2020 from Google Earth Pro
+![Google Earth River](https://github.com/seanwhite674/River-Project/assets/110498155/564213f3-41e7-4354-8ac7-e32275583889)
 
 
 
