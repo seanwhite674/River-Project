@@ -12,8 +12,9 @@ The basic premise behing our model:
   ![Proof of Concept width](https://github.com/seanwhite674/River-Project/assets/110498155/62e1b3ca-45b5-4ed9-8032-0d6b3b07fd63)
   
   2- To find this constant I used our previous data collected to see which constant caused our model to line up best with the 
-  data collected
-  3- I then made a python model for this river
-  4- I created an animation of the river
+  data collected.
+  
+  3- I then made a python model for this river.
+  4- I created an animation of the river.
 
 
