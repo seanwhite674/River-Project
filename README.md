@@ -17,5 +17,5 @@ The basic premise behing our model:
   ![Finding the constant](https://github.com/seanwhite674/River-Project/assets/110498155/7d91a181-cdb4-4593-8308-1b00c626ee64)
   3- I then made a python model for this river.
   4- I created an animation of the river.
-
+![myanimation](https://github.com/seanwhite674/River-Project/assets/110498155/39923922-5c91-44e7-991d-946df36297a7)
 
