@@ -13,7 +13,8 @@ The basic premise behing our model:
   
   2- To find this constant I used our previous data collected to see which constant caused our model to line up best with the 
   data collected.
-  
+  ![Finding the constant B=50](https://github.com/seanwhite674/River-Project/assets/110498155/88a09235-b2d4-498e-934a-d8bcdae880c2)
+  ![Finding the constant](https://github.com/seanwhite674/River-Project/assets/110498155/7d91a181-cdb4-4593-8308-1b00c626ee64)
   3- I then made a python model for this river.
   4- I created an animation of the river.
 
