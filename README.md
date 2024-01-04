@@ -16,7 +16,8 @@ The basic premise behing our model:
   ![Finding the constant B=50](https://github.com/seanwhite674/River-Project/assets/110498155/88a09235-b2d4-498e-934a-d8bcdae880c2)
   ![Finding the constant](https://github.com/seanwhite674/River-Project/assets/110498155/7d91a181-cdb4-4593-8308-1b00c626ee64)
   3- I then made a python model for this river.
-  4- I created an animation of the river.
 ![myanimation](https://github.com/seanwhite674/River-Project/assets/110498155/39923922-5c91-44e7-991d-946df36297a7)
 ![205020502050](https://github.com/seanwhite674/River-Project/assets/110498155/9ef08b07-4f31-4051-8745-86213fedcaa7)
+![208020802080](https://github.com/seanwhite674/River-Project/assets/110498155/82dc4166-41f2-4098-acec-d5ed7819474c)
+
 
