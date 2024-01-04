@@ -19,7 +19,7 @@ The basic premise behing our model:
  ##
   3- I then made a python model for this river.
 ##
-![myanimation](https://github.com/seanwhite674/River-Project/assets/110498155/39923922-5c91-44e7-991d-946df36297a7)
+![202020202020](https://github.com/seanwhite674/River-Project/assets/110498155/d9efaa62-d458-45ff-b47e-78a57e50d21f)
 ![205020502050](https://github.com/seanwhite674/River-Project/assets/110498155/9ef08b07-4f31-4051-8745-86213fedcaa7)
 ![208020802080](https://github.com/seanwhite674/River-Project/assets/110498155/82dc4166-41f2-4098-acec-d5ed7819474c)
 
